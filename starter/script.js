@@ -1,11 +1,11 @@
 'use strict';
-
+//hello
 //Selecting elements
 const dice_el = document.querySelector('.dice');
 const btnNew = document.querySelector('.btn--new');
 const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
-
+  
 const score0_el = document.getElementById('score--0');
 const score1_el = document.getElementById('score--1');
 const current0_el = document.getElementById('current--0');
